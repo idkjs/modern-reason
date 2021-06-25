@@ -1,4 +1,5 @@
 (executable
- (public_name modern_ocaml)
+ (public_name modern-reason)
+ (public_name modern-reason)
  (name main)
- (libraries modern_ocaml))
+ (libraries modern-reason))

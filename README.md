@@ -1,4 +1,4 @@
-# modern-ocaml
+# modern-reason
 
 Template for an ocaml project with modern tooling.
 
@@ -33,7 +33,7 @@ pinning of development tools.
 
 The current goto build system in ocaml is dune. Version 2 or superior of the
 dune lang should be used if possible. The base of the project has been
-generated with `dune init project modern_ocaml`.
+generated with `dune init project modern-reason`.
 
 ## Continuous integration
 
@@ -72,6 +72,6 @@ license. Feel free to use this template for your projects and pick the
 license you prefer. It is also totally fine to use it for a closed source
 project.
 
-If you need help selecting a license, the Free Software 
-Foundation provides a [short guide]( https://www.gnu.org/licenses/license-recommendations.html) for 
+If you need help selecting a license, the Free Software
+Foundation provides a [short guide]( https://www.gnu.org/licenses/license-recommendations.html) for
 picking a license.

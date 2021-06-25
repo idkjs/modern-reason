@@ -1,2 +1,2 @@
 (test
- (name modern_ocaml))
+ (name modern-reason))
